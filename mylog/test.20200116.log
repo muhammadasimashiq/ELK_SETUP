@@ -1,3 +1,86 @@
-{"name":"gnokoheat7","class":"A","state":0,"timestamp":1579152105456}
-{"name":"gnokoheat8","class":"B","state":1,"timestamp":1579152105747}
-{"name":"gnokoheat9","class":"C","state":2,"timestamp":1579152110004}
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+
+
+
+
+"example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+
+
+
+
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+2024/02/23 13:45:32 [error] 1234#0: *5678 some error message here, client: 192.168.1.1, server: example.com, request: "GET /nonexistent-page HTTP/1.1", upstream: "http://127.0.0.1:8080/nonexistent-page", host: "example.com"
+
+
+2024/02/26 08:57:00 [emerg] 1954#1954: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/02/26 08:57:00 [emerg] 1954#1954: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/02/26 08:57:00 [emerg] 1954#1954: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/02/26 08:57:00 [emerg] 1954#1954: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/02/26 08:57:00 [emerg] 1954#1954: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/02/26 08:57:00 [emerg] 1954#1954: still could not bind()
+2024/02/26 09:51:19 [emerg] 1893#1893: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/02/26 09:51:19 [emerg] 1893#1893: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/02/26 09:51:19 [emerg] 1893#1893: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/02/26 09:51:19 [emerg] 1893#1893: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/02/26 09:51:19 [emerg] 1893#1893: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/02/26 09:51:19 [emerg] 1893#1893: still could not bind()
+
+
+2022/02/11 13:12:24 [error] 37839#37839: *7 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 113.31.102.176, server: _, request: "GET /favicon.ico HTTP/1.1", host: "192.168.110.245:80"
+2022/02/11 13:12:24 [error] 37839#37839: *7 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 113.31.102.176, server: _, request: "GET /favicon.ico HTTP/1.1", host: "192.168.110.245:80"
+2022/02/11 13:12:24 [error] 37839#37839: *7 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 113.31.102.176, server: _, request: "GET /favicon.ico HTTP/1.1", host: "192.168.110.245:80"
