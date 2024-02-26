@@ -1,41 +1,52 @@
+// logstash.template.combined.json
 {
-    "template": "nginx-*",
-    "index_patterns": [
-        "nginx-*"
-    ],
+    "index_patterns": ["nginx-*"],
     "settings": {
-        "number_of_shards": 1
+      "number_of_shards": 1
     },
     "mappings": {
-        "properties": {
-            "remote_addr": {
-                "type": "ip"
-            },
-            "remote_user": {
-                "type": "keyword"
-            },
-            "time_local": {
-                "type": "date"
-            },
-            "request": {
-                "type": "keyword"
-            },
-            "status": {
-                "type": "integer"
-            },
-            "body_bytes_sent": {
-                "type": "long"
-            },
-            "http_referer": {
-                "type": "keyword"
-            },
-            "http_user_agent": {
-                "type": "keyword"
-            },
-            "@timestamp": {
-                "type": "date"
-            }
+      "_source": {
+        "enabled": true
+      },
+      "properties": {
+        "@timestamp": {
+          "type": "date"
+        },
+        "client_ip": {
+          "type": "ip"
+        },
+        "user": {
+          "type": "keyword"
+        },
+        "http_method": {
+          "type": "keyword"
+        },
+        "url": {
+          "type": "keyword"
+        },
+        "http_version": {
+          "type": "keyword"
+        },
+        "status_code": {
+          "type": "short"
+        },
+        "response_size": {
+          "type": "integer"
+        },
+        "referrer": {
+          "type": "keyword"
+        },
+        "user_agent": {
+          "type": "text"
+        },
+        "log_type": {
+          "type": "keyword"
+        },
+        "error_message": {
+          "type": "text"
         }
+        // Add other fields specific to your logs
+      }
     }
-}
-
+  }
+  

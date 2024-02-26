@@ -1,0 +1,46 @@
+{
+  "index_patterns": ["nginx-access-*"],
+  "settings": {
+    "index": {
+      "number_of_shards": 1,
+      "number_of_replicas": 0
+    }
+  },
+  "mappings": {
+    "_source": {
+      "enabled": true
+    },
+    "properties": {
+      "@timestamp": {
+        "type": "date"
+      },
+      "client_ip": {
+        "type": "ip"
+      },
+      "user": {
+        "type": "keyword"
+      },
+      "http_method": {
+        "type": "keyword"
+      },
+      "url": {
+        "type": "keyword"
+      },
+      "http_version": {
+        "type": "keyword"
+      },
+      "status_code": {
+        "type": "short"
+      },
+      "response_size": {
+        "type": "integer"
+      },
+      "referrer": {
+        "type": "keyword"
+      },
+      "user_agent": {
+        "type": "text"
+      }
+    }
+  }
+}
