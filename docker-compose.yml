@@ -80,6 +80,7 @@ services:
       - /var/run/docker.sock:/host_docker/docker.sock
       - /var/lib/docker:/host_docker/var/lib/docker
       - /var/log/nginx:/usr/share/filebeat/nginx
+      - ./mylog:/usr/share/filebeat/mylog
       - ./filebeat.yml:/usr/share/filebeat/filebeat.yml
     command: ["--strict.perms=false"]
     ulimits:

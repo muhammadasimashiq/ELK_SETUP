@@ -1,52 +1,56 @@
-// logstash.template.combined.json
 {
-    "index_patterns": ["nginx-*"],
-    "settings": {
+  "index_patterns": ["nginx-*", "symfony-*"],
+  "settings": {
       "number_of_shards": 1
-    },
-    "mappings": {
+  },
+  "mappings": {
       "_source": {
-        "enabled": true
+          "enabled": true
       },
       "properties": {
-        "@timestamp": {
-          "type": "date"
-        },
-        "client_ip": {
-          "type": "ip"
-        },
-        "user": {
-          "type": "keyword"
-        },
-        "http_method": {
-          "type": "keyword"
-        },
-        "url": {
-          "type": "keyword"
-        },
-        "http_version": {
-          "type": "keyword"
-        },
-        "status_code": {
-          "type": "short"
-        },
-        "response_size": {
-          "type": "integer"
-        },
-        "referrer": {
-          "type": "keyword"
-        },
-        "user_agent": {
-          "type": "text"
-        },
-        "log_type": {
-          "type": "keyword"
-        },
-        "error_message": {
-          "type": "text"
-        }
-        // Add other fields specific to your logs
+          "@timestamp": {
+              "type": "date"
+          },
+          "log_type": {
+              "type": "keyword"
+          },
+          "client_ip": {
+              "type": "ip"
+          },
+          "user": {
+              "type": "keyword"
+          },
+          "http_method": {
+              "type": "keyword"
+          },
+          "url": {
+              "type": "keyword"
+          },
+          "http_version": {
+              "type": "keyword"
+          },
+          "status_code": {
+              "type": "short"
+          },
+          "response_size": {
+              "type": "integer"
+          },
+          "referrer": {
+              "type": "keyword"
+          },
+          "user_agent": {
+              "type": "text"
+          },
+          "error_message": {
+              "type": "text"
+          },
+          "symfony_log_level": {
+              "type": "keyword"
+          },
+          "symfony_message": {
+              "type": "text"
+          },
+          // Add other fields specific to your logs
       }
-    }
   }
-  
+}

@@ -1,8 +1,31 @@
+# filebeat.inputs:
+# - type: log
+#   enabled: true
+#   paths:
+#     - /usr/share/filebeat/nginx/*.log
+
+# output.logstash:
+#   hosts: ["logstash:5044"]
+
+# processors:
+#   - add_docker_metadata:
+#       host: "unix:///host_docker/docker.sock"
+
+
 filebeat.inputs:
 - type: log
   enabled: true
   paths:
     - /usr/share/filebeat/nginx/*.log
+  fields:
+    log_type: "nginx"
+
+- type: log
+  enabled: true
+  paths:
+    - /usr/share/filebeat/mylog/*.log
+  fields:
+    log_type: "symfony"
 
 output.logstash:
   hosts: ["logstash:5044"]
